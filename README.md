@@ -122,4 +122,5 @@ or external AI services. This foundation does not upload or process user media.
 
 ## Author
 
-Add author name and contact details before publishing.
+ARMAAN SINGH
+
